@@ -37,7 +37,7 @@
 
 ## Faizan Ahmad's Github Stats
 
-<span> ![Manzoor's github stats](https://github-readme-stats.vercel.app/api?username=Faizan-Ahmd&theme=tokyonight&show_icons=true&count_private=true) </span>
+<span> ![Faizan's github stats](https://github-readme-stats.vercel.app/api?username=Faizan-Ahmd&theme=tokyonight&show_icons=true&count_private=true) </span>
 <span> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-Ahmad&theme=tokyonight)</span>
 
 
