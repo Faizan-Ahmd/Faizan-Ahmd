@@ -42,6 +42,7 @@
 
 
 ### Top Tools & Languages <br>
+<img src="https://raw.githubusercontent.com/github/explore/aa7a9e363adca2d4baf0148ebdee68be35d0572b/topics/gin/gin.png" alt="Gin" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/github/explore/902a8a38f1e277eb27d2a10ab95a3d524a6ea22f/topics/oracle-database/oracle-database.png" alt="OracleDatabase" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="GoLang" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust" width="30" height="30"/>
