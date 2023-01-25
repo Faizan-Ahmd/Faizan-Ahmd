@@ -1,7 +1,7 @@
 ### Hi Devs 👋
 <h1 align="center">Faizan Ahmad</h1>
 
-<p align="center"> <b><i>There's a way to do it better find it -- Faizan Ahmad</i><b> </p>
+<p align="center"> <b><i>There's a way to do it better find it -- Thomas Edison</i><b> </p>
 <br>
   
 - 🚀 Go Engineer
